@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Here are some snippets of tasks that I had to solve while passing my Google Cybersecurity Certification. They are not very difficult, but I am relativly new to Python, so the exercise is definitly welcome. 
+Here are tasks that I had to solve while passing my Google Cybersecurity Certification. They are not very difficult, but I am relativly new to Python, so the exercise is definitly welcome. 
 <br />
 
 
