@@ -21,6 +21,7 @@ These are tasks that I had to solve while passing my Google Cybersecurity Certif
 - <b>Getting to know Python</b>
 - <b>Coding a simple algorithm</b>
 - <b>Extracting (flagged) IPs from a logfile</b>
+- <b>Parsing files</b>
 - <b>Debugging code</b>
 
 <h2>Program walk-through:</h2> 
