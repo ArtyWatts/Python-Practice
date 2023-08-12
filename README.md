@@ -42,3 +42,16 @@ Here are some snippets of tasks that I had to solve while passing my Google Cybe
 
 ![Screenshot (46)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/1eeca348-11a3-48c0-99f1-2d0c79d9c22b)
 
+<p align="center"> 
+ <b>Working with strings:</b>
+
+![Screenshot (49)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/ac3e07a7-23e4-4a2f-ad27-bd85bf49f7f3)
+
+
+ <p align="center"> 
+ <b>:</b>
+
+
+
+ 
+
