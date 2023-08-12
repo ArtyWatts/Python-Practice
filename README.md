@@ -21,6 +21,7 @@ These are tasks that I had to solve while passing my Google Cybersecurity Certif
 - <b>Getting to know Python</b>
 - <b>Coding a simple algorithm</b>
 - <b>Extracting (flagged) IPs from a logfile</b>
+- <b>Debugging code</b>
 
 <h2>Program walk-through:</h2> 
 
@@ -108,8 +109,25 @@ These are tasks that I had to solve while passing my Google Cybersecurity Certif
 
 ![Screenshot (63)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/92d84f06-8e59-4fc7-836f-1da375d1f095)
 
+<p align="center"> 
+ <b>Some debugging. Before and after: </b>
+
+ ![Screenshot (68)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/7ded5863-2c61-48b4-b956-200940ef8edf)
+
+ ![Screenshot (69)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/d1d47d1b-47ef-480a-8f0a-63d48bc7a834)
+
+ <p align="center"> 
+ <b> Before and after: </b>
+
+![Screenshot (72)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/de64283c-395d-4b65-8aa0-45ac0b4f2679)
+
+![Screenshot (73)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/0ee5d44a-3102-45a4-841c-fb398443e4f5)
+
+
  <p align="center"> 
  <b>IT WORKS! nice :)</b>
+
+
 
 <br> 
 <br>
