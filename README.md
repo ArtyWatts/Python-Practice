@@ -26,6 +26,8 @@ Here are some snippets of tasks that I had to solve while passing my Google Cybe
 
 ![Screenshot (40)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/67405de1-f658-4fcd-aa82-9b349c74bffc)
 
+<p align="center"> 
+ <b>Learning to sort and to max/min:</b>
 
 ![Screenshot (41)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/2f4ef622-e415-4f76-b325-a26a76ef64fb)
 
@@ -34,6 +36,9 @@ Here are some snippets of tasks that I had to solve while passing my Google Cybe
 ![Screenshot (43)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/5d6a901c-8f53-41fc-905c-be910281ae02)
 
 ![Screenshot (45)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/1a07db03-432c-481a-9836-4a1201272142)
+
+<p align="center"> 
+ <b>Simple use case example:</b>
 
 ![Screenshot (46)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/1eeca348-11a3-48c0-99f1-2d0c79d9c22b)
 
