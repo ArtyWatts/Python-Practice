@@ -19,7 +19,8 @@ These are tasks that I had to solve while passing my Google Cybersecurity Certif
 <h2>What I learned</h2>
 
 - <b>Getting to know Python</b>
-- <b>Coding a simple algorythm at the end</b>
+- <b>Coding a simple algorythm</b>
+- <b>Extracting (flagged) IPs from a logfile</b>
 
 <h2>Program walk-through:</h2> 
 
@@ -92,6 +93,22 @@ These are tasks that I had to solve while passing my Google Cybersecurity Certif
   
  ![Screenshot (60)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/8119a7ab-2393-4b47-b73a-df8f947dc1fe)
 
+<p align="center"> 
+ <b>Printing the logfile</b>
+
+![Screenshot (61)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/7ff112b8-37c7-42ef-ba70-1475129e4d62)
+
+<p align="center"> 
+ <b>Extracting the IPv4 addresses from the log</b>
+
+![Screenshot (62)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/6f71f806-66a0-4aa7-baa4-886e21517525)
+
+<p align="center"> 
+ <b>Differentiating flagged and valid IP adresses /b>
+
+![Screenshot (63)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/92d84f06-8e59-4fc7-836f-1da375d1f095)
+
+ 
  <p align="center"> 
  <b>IT WORKS! nice :)</b>
 
