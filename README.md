@@ -108,9 +108,17 @@ These are tasks that I had to solve while passing my Google Cybersecurity Certif
 
 ![Screenshot (63)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/92d84f06-8e59-4fc7-836f-1da375d1f095)
 
- 
  <p align="center"> 
  <b>IT WORKS! nice :)</b>
+
+<br> 
+<br>
+
+<p align="center"> 
+ <b>I really liked this quote at the end of the course</b>
+
+ ![Screenshot (67)](https://github.com/ArtyWatts/Python-Practice/assets/141881183/32689f21-91e1-43ed-83d2-907c85bce0ac)
+
 
  
 
